@@ -17,6 +17,7 @@
 - **A Tale of Tails: Model Collapse as a Change of Scaling Laws**. *Arxiv* (2024) [[Paper]](https://arxiv.org/abs/2402.07043)
 - **How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse**. *Arxiv (2024)* [[Paper]](https://arxiv.org/abs/2404.05090)
 - **Strong Model Collapse**. *Arxiv (2024)* [[Paper]](https://arxiv.org/abs/2410.04840)
+- **Large Language Models Suffer From Their Own Output: An Analysis of the Self-Consuming Training Loop**. *Arxiv (2023)* [[Paper]](https://arxiv.org/pdf/2311.16822)
 
 ## AI Deluge
 - **Neural Retrievers are Biased Towards LLM-Generated Content**. *KDD (2024)* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671882?casa_token=4Lrwrk5uhakAAAAA:XP2Tje_6XU-rK_CbHHfDZYyQKyqgOWgPzuUIbx4cA0xigm22nJJZ-0Ze3WDiXtq2K5zbKg0ILfnH)
