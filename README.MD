@@ -58,4 +58,12 @@ If this paper list is useful for your research, please kindly cite the following
   journal={arXiv preprint arXiv:2402.13446},
   year={2024}
 }
+
+@inproceedings{dai2024bias,
+  title={Bias and unfairness in information retrieval systems: New challenges in the llm era},
+  author={Dai, Sunhao and Xu, Chen and Xu, Shicheng and Pang, Liang and Dong, Zhenhua and Xu, Jun},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={6437--6447},
+  year={2024}
+}
 ```
