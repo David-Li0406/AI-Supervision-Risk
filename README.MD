@@ -6,7 +6,7 @@
 
 - While these AI supervision paradigms bring convenience and efficiency, it's crucial to recognize that this new paradigm blurs the boundaries between models, data, and evaluation methods, posing potential risks and challenges.
 
-- Want to know more about AI supervision in the era of LLMs? Check out our paper list about [LLM-based data synthesis](https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge) and [LLM-as-a-judge](https://github.com/Zhen-Tan-dmml/LLM4Annotation)!
+- Want to know more about AI supervision in the era of LLMs? Check out our paper list about [LLM-based data synthesis](https://github.com/Zhen-Tan-dmml/LLM4Annotation) and [LLM-as-a-judge](https://github.com/llm-as-a-judge/Awesome-LLM-as-a-judge)!
 
 <div style="text-align: center;">
   <img src="overview.png" width="700" >
