@@ -23,6 +23,9 @@
 - **Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era**. *KDD (2024)* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671458)
 - **Spiral of Silence: How is Large Language Model Killing Information Retrieval? -- A Case Study on Open Domain Question Answering**. *ACL (2024)* [[Paper]](https://arxiv.org/abs/2404.10496)
 - **Invisible Relevance Bias: Text-Image Retrieval Models Prefer AI-Generated Images**. *SIGIR (2024)* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3657750)
+- **Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents**. *ICLR (2025)* [[Paper]](https://openreview.net/forum?id=U1T6sq12uj)
+- **Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration**. *ACL (2024)* [[Paper]](https://aclanthology.org/2024.findings-acl.421.pdf) [[Benchmark]](https://github.com/KID-22/Cocktail)
+- **Generative Ghost: Investigating Ranking Bias Hidden in AI-Generated Videos**. *Arxiv (2025)* [[Paper]](https://arxiv.org/pdf/2502.07327)
 - **Source Echo Chamber: Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop**. *Arxiv (2024)* [[Paper]](https://arxiv.org/abs/2405.17998)
 
 
