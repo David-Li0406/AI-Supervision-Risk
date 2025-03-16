@@ -1,6 +1,8 @@
 # AI Supervision Risk
 
-- This repo include the papers discussed risks and challenges in AI supervision, i.e. data synthesis and LLM-as-a-judge.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![](https://img.shields.io/badge/PaperNumber-18-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+
+- This repo include the papers discussed risks and challenges in AI supervision, i.e. data synthesis and LLM-as-a-judge. Corresponding to Dawei Li (daweili5@asu.edu).
 
 - While these AI supervision paradigms bring convenience and efficiency, it's crucial to recognize that this new paradigm blurs the boundaries between models, data, and evaluation methods, posing potential risks and challenges.
 
