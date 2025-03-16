@@ -12,30 +12,30 @@
 
 ## Model Collapse
 - **AI models collapse when trained on recursively generated data**. *Nature* (2024) [[Paper]](https://www.nature.com/articles/s41586-024-07566-y)
-- **A Tale of Tails: Model Collapse as a Change of Scaling Laws**. **Arxiv (2024) [[Paper]](https://arxiv.org/abs/2402.07043)
-- **How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse**. **Arxiv (2024) [[Paper]](https://arxiv.org/abs/2404.05090)
-- **Strong Model Collapse**. **Arxiv (2024) [[Paper]](https://arxiv.org/abs/2410.04840)
+- **A Tale of Tails: Model Collapse as a Change of Scaling Laws**. *Arxiv* (2024) [[Paper]](https://arxiv.org/abs/2402.07043)
+- **How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse**. *Arxiv (2024)* [[Paper]](https://arxiv.org/abs/2404.05090)
+- **Strong Model Collapse**. *Arxiv (2024)* [[Paper]](https://arxiv.org/abs/2410.04840)
 
 ## AI Deluge
-- **Neural Retrievers are Biased Towards LLM-Generated Content**. **KDD (2024) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671882?casa_token=4Lrwrk5uhakAAAAA:XP2Tje_6XU-rK_CbHHfDZYyQKyqgOWgPzuUIbx4cA0xigm22nJJZ-0Ze3WDiXtq2K5zbKg0ILfnH)
-- **Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era**. **KDD (2024) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671458)
-- **Spiral of Silence: How is Large Language Model Killing Information Retrieval? -- A Case Study on Open Domain Question Answering**. **ACL (2024) [[Paper]](https://arxiv.org/abs/2404.10496)
-- **Invisible Relevance Bias: Text-Image Retrieval Models Prefer AI-Generated Images**. **SIGIR (2024) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3657750)
-- **Source Echo Chamber: Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop**. **Arxiv (2024) [[Paper]](https://arxiv.org/abs/2405.17998)
+- **Neural Retrievers are Biased Towards LLM-Generated Content**. *KDD (2024)* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671882?casa_token=4Lrwrk5uhakAAAAA:XP2Tje_6XU-rK_CbHHfDZYyQKyqgOWgPzuUIbx4cA0xigm22nJJZ-0Ze3WDiXtq2K5zbKg0ILfnH)
+- **Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era**. *KDD (2024)* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671458)
+- **Spiral of Silence: How is Large Language Model Killing Information Retrieval? -- A Case Study on Open Domain Question Answering**. *ACL (2024)* [[Paper]](https://arxiv.org/abs/2404.10496)
+- **Invisible Relevance Bias: Text-Image Retrieval Models Prefer AI-Generated Images**. *SIGIR (2024)* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3657750)
+- **Source Echo Chamber: Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop**. *Arxiv (2024)* [[Paper]](https://arxiv.org/abs/2405.17998)
 
 
 ## Self-bias
-- **Self-Preference Bias in LLM-as-a-Judge**. **Arxiv (2024) [[Paper]](https://arxiv.org/abs/2410.21819)
-- **LLMs as Narcissistic Evaluators: When Ego Inflates Evaluation Scores**. **Arxiv (2023) [[Paper]](https://arxiv.org/abs/2311.09766)
-- **Benchmarking Cognitive Biases in Large Language Models as Evaluators**. **ACL (2024) [[Paper]](https://arxiv.org/abs/2309.17012)
-- **LLM Evaluators Recognize and Favor Their Own Generations**. **NeurIPS (2024) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7f1f0218e45f5414c79c0679633e47bc-Abstract-Conference.html)
-- **Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**. **ICLR (2024) [[Paper]](https://arxiv.org/abs/2410.02736)
-- **Pride and Prejudice: LLM Amplifies Self-Bias in Self-Refinement**. **Arxiv (2024) [[Paper]](https://arxiv.org/abs/2402.11436)
-- **Style Over Substance: Evaluation Biases for Large Language Models**. **Arxiv (2023) [[Paper]](https://arxiv.org/abs/2307.03025)
+- **Self-Preference Bias in LLM-as-a-Judge**. *Arxiv (2024)* [[Paper]](https://arxiv.org/abs/2410.21819)
+- **LLMs as Narcissistic Evaluators: When Ego Inflates Evaluation Scores**. *Arxiv (2023)* [[Paper]](https://arxiv.org/abs/2311.09766)
+- **Benchmarking Cognitive Biases in Large Language Models as Evaluators**. *ACL (2024)* [[Paper]](https://arxiv.org/abs/2309.17012)
+- **LLM Evaluators Recognize and Favor Their Own Generations**. *NeurIPS (2024)* [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7f1f0218e45f5414c79c0679633e47bc-Abstract-Conference.html)
+- **Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**. *ICLR (2024)* [[Paper]](https://arxiv.org/abs/2410.02736)
+- **Pride and Prejudice: LLM Amplifies Self-Bias in Self-Refinement**. *Arxiv (2024)* [[Paper]](https://arxiv.org/abs/2402.11436)
+- **Style Over Substance: Evaluation Biases for Large Language Models**. *Arxiv (2023)* [[Paper]](https://arxiv.org/abs/2307.03025)
 
 ## Preference Leakage
-- **Preference Leakage: A Contamination Problem in LLM-as-a-judge**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.01534)
-- **Great Models Think Alike and this Undermines AI Oversight**. *ArXiv preprint* (2025) [[Paper]](https://arxiv.org/abs/2502.04313)
+- **Preference Leakage: A Contamination Problem in LLM-as-a-judge**. *ArXiv (2025)* [[Paper]](https://arxiv.org/abs/2502.01534)
+- **Great Models Think Alike and this Undermines AI Oversight**. *ArXiv (2025)* [[Paper]](https://arxiv.org/abs/2502.04313)
 
 ## Reference
 If this paper list is useful for your research, please kindly cite the following papers:
