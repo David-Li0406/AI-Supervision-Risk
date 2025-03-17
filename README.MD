@@ -42,6 +42,7 @@
 ## Preference Leakage
 - **Preference Leakage: A Contamination Problem in LLM-as-a-judge**. *ArXiv (2025)* [[Paper]](https://arxiv.org/abs/2502.01534)
 - **Great Models Think Alike and this Undermines AI Oversight**. *ArXiv (2025)* [[Paper]](https://arxiv.org/abs/2502.04313)
+- **Peeking Behind Closed Doors: Risks of LLM Evaluation by Private Data Curators**. *ArXiv (2025)* [[Paper]](https://arxiv.org/abs/2503.04756)
 
 ## Reference
 If this paper list is useful for your research, please kindly cite the following papers:
